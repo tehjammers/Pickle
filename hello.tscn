@@ -1,7 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://bwc3kuf3sr4r5"]
-
-[ext_resource type="Texture2D" uid="uid://dc52e6msdelf0" path="res://Sprites/Real Human Female Skeleton Pose.G03.watermarked.2k.png" id="1_kikl4"]
-
-[node name="hello" type="Node2D"]
-
-
