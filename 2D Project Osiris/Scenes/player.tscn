@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=3 uid="uid://dll3yy6ytkkwy"]
+
+[ext_resource type="Script" path="res://Scripts/player.gd" id="1_1quij"]
+[ext_resource type="Texture2D" uid="uid://b3ot30ocs1aqi" path="res://Sprites/Maliki.png" id="2_2iv5n"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_hrs4j"]
+
+[node name="Player" type="CharacterBody2D"]
+script = ExtResource("1_1quij")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(3, -31)
+scale = Vector2(1.595, 1.595)
+texture = ExtResource("2_2iv5n")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(2, -24)
+scale = Vector2(1.11, 1.11)
+shape = SubResource("CapsuleShape2D_hrs4j")
