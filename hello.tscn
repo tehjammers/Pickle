@@ -4,6 +4,4 @@
 
 [node name="hello" type="Node2D"]
 
-[node name="Sprite2D" type="Sprite2D" parent="."]
-scale = Vector2(0.29, 0.29)
-texture = ExtResource("1_kikl4")
+
