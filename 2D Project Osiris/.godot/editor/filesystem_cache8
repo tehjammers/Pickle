@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1719516590
+::res://::1719517594
 icon.svg::CompressedTexture2D::3537441582218282612::1719516436::1719516591::1::::<><>::
 ::res://addons/::1719516436
 ::res://addons/godot-git-plugin/::1719516436
@@ -8,13 +8,15 @@ plugin.cfg::TextFile::-1::1719516436::0::1::::<><>::
 THIRDPARTY.md::TextFile::-1::1719516436::0::1::::<><>::
 ::res://addons/godot-git-plugin/linux/::1719516436
 ::res://addons/godot-git-plugin/macos/::1719516436
-::res://addons/godot-git-plugin/win64/::1719516436
-::res://Scenes/::1719516435
-game.tscn::PackedScene::245698657526546722::1719516435::0::1::::<><>::uid://dll3yy6ytkkwy::::res://Scenes/player.tscn<>uid://p51yrvndkrak::::res://Sprites/Stone Platform Tile.png
+::res://addons/godot-git-plugin/win64/::1719517589
+::res://Scenes/::1719517494
+game.tscn::PackedScene::245698657526546722::1719517494::0::1::::<><>::uid://dll3yy6ytkkwy::::res://Scenes/player.tscn<>uid://p51yrvndkrak::::res://Sprites/Stone Platform Tile.png
 player.gd::GDScript::-1::1719516435::0::1::::<>CharacterBody2D<>::
-player.tscn::PackedScene::7955791730809081708::1719516435::0::1::::<><>::res://Scripts/player.gd<>uid://b3ot30ocs1aqi::::res://Sprites/Maliki.png
-::res://Scripts/::1719516435
+player.tscn::PackedScene::7955791730809081708::1719517494::0::1::::<><>::res://Scripts/player.gd<>uid://b3ot30ocs1aqi::::res://Sprites/Maliki.png
+::res://Scripts/::1719517280
+mage.gd::GDScript::-1::1719517252::0::1::::<>CharacterBody2D<>::
 player.gd::GDScript::-1::1719516435::0::1::::<>CharacterBody2D<>::
-::res://Sprites/::1719516436
+sprite flip script.gd::GDScript::-1::1719517280::0::1::::<>RefCounted<>::
+::res://Sprites/::1719516591
 Maliki.png::CompressedTexture2D::4381814554033707352::1719516435::1719516591::1::::<><>::
 Stone Platform Tile.png::CompressedTexture2D::1116386413990852014::1719516436::1719516591::1::::<><>::
